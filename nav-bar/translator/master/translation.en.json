@@ -1,9 +1,11 @@
 {
 	"navBar.components.navigationBarToggle.closeButton": "Close {{title}}",
 	"navBar.components.navigationBarToggle.closeSidebar": "Close sidebar",
+	"navBar.components.navigationBarToggle.closeSidebarTitle": "Close sidebar {{title}}",
 	"navBar.components.navigationBarToggle.navigationBar": "Navigation bar",
 	"navBar.components.navigationBarToggle.openButton": "Open {{title}}",
-	"navBar.components.navigationBarToggle.openSidebar": "Open sidebar",
+	"navBar.components.navigationBarToggle.openSidebar": "Open sidebar {{one}}",
+	"navBar.components.navigationBarToggle.openSidebar_plural": "Open sidebar {{more}}",
 	"navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.content": "View board and version history.",
 	"navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.title": "Open sidebar"
 }
