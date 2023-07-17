@@ -1,6 +1,6 @@
 git:
   filters:
-  - filter_type: dir
+  - filter_type: file
     file_format: KEYVALUEJSON
     source_file_extension: json
     source_language: en
