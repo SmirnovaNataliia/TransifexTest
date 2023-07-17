@@ -1,3 +1,5 @@
 {
-	"select.common.choose": "Choisir"
+	"select.common.choose": "Choisir",
+	"select.common.choose1": "Choisir - 1",
+	"select.common.choose2": "Choisir - 2"
 }
