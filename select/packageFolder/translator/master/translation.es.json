@@ -2,6 +2,7 @@
 	"select.common.choose": "Elegir",
 	"select.common.select": "Selectado",
 	"select.common.done": "Finita",
-	"select.common.update": "Updtd",
+	"select.common.update": "{{count}} Updtd",
+	"select.common.update_plural": "{{count}} Updtd",
 	"select.common.remove": "Rmvd"
 }
