@@ -5,3 +5,15 @@ git:
     source_language: en
     source_file: select/packageFolder/translator/master/translation.en.json
     translation_files_expression: 'select/packageFolder/translator/master/translation.<lang>.json'
+
+  - filter_type: file
+    file_format: KEYVALUEJSON
+    source_language: en
+    source_file: nav-bar/translator/master/translation.en.json
+    translation_files_expression: 'nav-bar/translator/master/translation.<lang>.json'
+
+  - filter_type: file
+    file_format: KEYVALUEJSON
+    source_language: en
+    source_file: translator/master/translation.en.json
+    translation_files_expression: 'translator/master/translation.<lang>.json'
