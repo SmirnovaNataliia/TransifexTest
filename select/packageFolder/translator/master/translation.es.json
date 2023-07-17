@@ -1,3 +1,7 @@
 {
-	"select.common.choose": "Elegir"
+	"select.common.choose": "Elegir",
+	"select.common.select": "Selectado",
+	"select.common.done": "Finita",
+	"select.common.update": "Updtd",
+	"select.common.remove": "Rmvd"
 }
