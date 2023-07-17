@@ -1,3 +1,5 @@
 {
-	"select.common.choose": "Choose"
+	"select.common.choose": "Choose",
+	"select.common.select": "Select",
+	"select.common.done": "Done"
 }
