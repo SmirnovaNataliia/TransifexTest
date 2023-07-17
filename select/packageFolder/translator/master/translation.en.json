@@ -2,6 +2,7 @@
 	"select.common.choose": "Choose",
 	"select.common.select": "Select",
 	"select.common.done": "Done",
-	"select.common.update": "Update",
+	"select.common.update": "Update {{count}}",
+	"select.common.update_plural": "Update {{count}}",
 	"select.common.remove": "Remove"
 }
