@@ -1,4 +1,6 @@
 {
 	"feed.feedNotificationsList.newLanguagesBanner": "On y travaille ! Notre équipe s’attèle actuellement à la traduction du fil d’actualité.",
-	"feed.mentions.warning": "Les utilisateurs recevront une notification."
+	"feed.mentions.warning": "Les utilisateurs recevront une notification.",
+	"feed.mentions.warning2": "Les utilisateurs recevront {{number}} une notification. - 2",
+	"feed.mentions.warning2_plural": "Les utilisateurs recevront {{number}} une notification. - 2"
 }

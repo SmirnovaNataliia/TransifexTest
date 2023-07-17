@@ -1,4 +1,6 @@
 {
 	"feed.feedNotificationsList.newLanguagesBanner": "¡Estamos en eso! Nuestro equipo está trabajando en la traducción del feed.",
-	"feed.mentions.warning": "Los usuarios recibirán una notificación."
+	"feed.mentions.warning": "Los usuarios recibirán una notificación.",
+	"feed.mentions.warning2": "Los usuarios recibirán {{number}} una notificación - 2.",
+	"feed.mentions.warning2_plural": "Los usuarios recibirán {{number}} una notificación - 2."
 }

@@ -1,9 +1,11 @@
 {
 	"navBar.components.navigationBarToggle.closeButton": "Cerrar {{title}}",
 	"navBar.components.navigationBarToggle.closeSidebar": "Cerrar la barra lateral",
+	"navBar.components.navigationBarToggle.closeSidebarTitle": "Cerrar la barra lateral {{title}}",
 	"navBar.components.navigationBarToggle.navigationBar": "Barra de navegación",
 	"navBar.components.navigationBarToggle.openButton": "Abrir {{title}}",
-	"navBar.components.navigationBarToggle.openSidebar": "Abrir la barra lateral",
+	"navBar.components.navigationBarToggle.openSidebar": "Abrir la barra {{one}} lateral",
+	"navBar.components.navigationBarToggle.openSidebar_plural": "Abrir la barra {{more}} lateral",
 	"navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.content": "Ver el tablero y el historial de las versiones.",
 	"navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.title": "Abrir la barra lateral"
 }
