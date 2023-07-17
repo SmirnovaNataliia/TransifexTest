@@ -1,0 +1,9 @@
+{
+	"navBar.components.navigationBarToggle.closeButton": "Fermer {{title}}",
+	"navBar.components.navigationBarToggle.closeSidebar": "Fermer la barre latérale",
+	"navBar.components.navigationBarToggle.navigationBar": "Barre de navigation",
+	"navBar.components.navigationBarToggle.openButton": "Ouvrir {{title}}",
+	"navBar.components.navigationBarToggle.openSidebar": "Ouvrir la barre latérale",
+	"navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.content": "Consulter l’historique du tableau et des versions.",
+	"navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.title": "Ouvrir la barre latérale"
+}

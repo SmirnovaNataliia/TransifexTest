@@ -1,0 +1,5 @@
+{
+	"extends": "@mirohq-internal/config/tsconfig/packages/test",
+	"include": ["./setupJest.ts", "../../typings/**/*"],
+	"exclude": ["build", "dist", "node_modules"]
+}

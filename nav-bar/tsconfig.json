@@ -1,0 +1,5 @@
+{
+	"extends": "@mirohq-internal/config/tsconfig/packages/main",
+	"include": ["./public", "./src", "./translator", "../../typings/**/*"],
+	"exclude": ["build", "dist", "node_modules"]
+}

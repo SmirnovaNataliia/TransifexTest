@@ -1,0 +1,9 @@
+{
+	"navBar.components.navigationBarToggle.closeButton": "Close {{title}}",
+	"navBar.components.navigationBarToggle.closeSidebar": "Close sidebar",
+	"navBar.components.navigationBarToggle.navigationBar": "Navigation bar",
+	"navBar.components.navigationBarToggle.openButton": "Open {{title}}",
+	"navBar.components.navigationBarToggle.openSidebar": "Open sidebar",
+	"navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.content": "View board and version history.",
+	"navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.title": "Open sidebar"
+}
