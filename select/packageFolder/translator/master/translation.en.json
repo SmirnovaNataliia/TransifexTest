@@ -1,8 +1,12 @@
 {
-	"select.common.choose": "Choose",
-	"select.common.select": "Select",
-	"select.common.done": "Done",
-	"select.common.update": "Update {{count}}",
-	"select.common.update_plural": "Update {{count}}",
-	"select.common.remove": "Remove"
+  "select": {
+    "common": {
+      "choose": "Choose",
+      "done": "Done",
+      "remove": "Remove",
+      "select": "Select",
+      "update": "Update {{count}}",
+      "update_plural": "Update {{count}}"
+    }
+  }
 }

@@ -69,5 +69,38 @@
       "refresh": "Refresh",
       "youAreFollowing": "You're following this thread and will get notified about new replies."
     }
+  },
+  "navBar": {
+    "components": {
+      "navigationBarToggle": {
+        "closeButton": "Close {{title}}",
+        "closeSidebar": "Close sidebar",
+        "closeSidebarTitle": "Close sidebar {{title}}",
+        "navigationBar": "Navigation bar",
+        "openButton": "Open {{title}}",
+        "openSidebar": "Open sidebar {{one}}",
+        "openSidebar_plural": "Open sidebar {{more}}"
+      }
+    },
+    "paidPlanOnboarding": {
+      "boardHistory": {
+        "minimizedSidebarIcon": {
+          "tooltip": {
+            "content": "View board and version history.",
+            "title": "Open sidebar"
+          }
+        }
+      }
+    }
+  },
+  "select": {
+    "common": {
+      "choose": "Choose",
+      "done": "Done",
+      "remove": "Remove",
+      "select": "Select",
+      "update": "Update {{count}}",
+      "update_plural": "Update {{count}}"
+    }
   }
 }

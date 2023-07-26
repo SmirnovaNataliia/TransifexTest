@@ -1,8 +1,7 @@
 {
-	"select.common.choose": "Choisir",
-	"select.common.select": "Selection",
-	"select.common.done": "Finish",
-	"select.common.update": "Updt {{count}}",
-	"select.common.update_plural": "Updt {{count}}",
-	"select.common.remove": "Rmv"
+  "select": {
+    "common": {
+      "remove": "Remove-fr"
+    }
+  }
 }

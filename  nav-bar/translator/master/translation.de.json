@@ -1,0 +1,21 @@
+{
+  "feed": {
+    "components": {
+      "feedNotification": {
+        "findOutMoreBtn": "GERMAN"
+      }
+    }
+  },
+  "navBar": {
+    "components": {
+      "navigationBarToggle": {
+        "closeSidebarTitle": "Close sidebar {{title}} - DE"
+      }
+    }
+  },
+  "select": {
+    "common": {
+      "remove": "Remove-de"
+    }
+  }
+}
