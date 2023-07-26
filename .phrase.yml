@@ -5,17 +5,17 @@ phrase:
 
   push:
     sources:
-    - file: ./feed/translator/master/translation.en.json
+    - file: ./feed/translator/master/translation.<locale_name>.json
       params:
         locale_id: 9becdc254e58eab9d24bf3c81515115f
         tags: feed
         update_translations: true
-    - file: ./nav-bar/translator/master/translation.en.json
+    - file: ./nav-bar/translator/master/translation.<locale_name>.json
       params:
         locale_id: 9becdc254e58eab9d24bf3c81515115f
         tags: nav-bar
         update_translations: true
-    - file: ./select/packageFolder/translator/master/translation.en.json
+    - file: ./select/packageFolder/translator/master/translation.<locale_name>.json
       params:
         locale_id: 9becdc254e58eab9d24bf3c81515115f
         tags: select
