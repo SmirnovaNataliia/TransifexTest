@@ -4,5 +4,7 @@
 	"select.common.done": "Done",
 	"select.common.update": "Update {{count}}",
 	"select.common.update_plural": "Update {{count}}",
-	"select.common.remove": "Remove"
+	"select.common.remove": "Remove",
+	"select.common.play": "Play",
+	"select.common.speedUp": "Speed Up"
 }
