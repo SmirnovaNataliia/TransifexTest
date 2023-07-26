@@ -30,4 +30,4 @@ phrase:
     - file: ./<tag>/packageFolder/translator/master/translation.<locale_name>.json
       params:
         tags: select
-        file_format: i18next
+        file_format: i18next_4
