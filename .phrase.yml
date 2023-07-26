@@ -7,17 +7,17 @@ phrase:
     sources:
     - file: ./feed/translator/master/translation.en.json
       params:
-        locale_id: en
+        locale_id: 9becdc254e58eab9d24bf3c81515115f
         tags: feed
         update_translations: true
     - file: ./nav-bar/translator/master/translation.en.json
       params:
-        locale_id: en
+        locale_id: 9becdc254e58eab9d24bf3c81515115f
         tags: nav-bar
         update_translations: true
     - file: ./select/packageFolder/translator/master/translation.en.json
       params:
-        locale_id: en
+        locale_id: 9becdc254e58eab9d24bf3c81515115f
         tags: select
         update_translations: true
 
