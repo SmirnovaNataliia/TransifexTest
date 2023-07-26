@@ -1,21 +1,5 @@
 {
-  "feed": {
-    "components": {
-      "feedNotification": {
-        "findOutMoreBtn": "JAPANEESE"
-      }
-    }
-  },
-  "navBar": {
-    "components": {
-      "navigationBarToggle": {
-        "closeSidebarTitle": "Close sidebar {{title}} - JA"
-      }
-    }
-  },
-  "select": {
-    "common": {
-      "remove": "Remove-ja"
-    }
-  }
+  "feed.components.feedNotification.findOutMoreBtn": "JAPANEESE",
+  "navBar.components.navigationBarToggle.closeSidebarTitle": "Close sidebar {{title}} - JA",
+  "select.common.remove": "Remove-ja"
 }

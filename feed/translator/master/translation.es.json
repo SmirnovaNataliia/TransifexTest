@@ -1,9 +1,3 @@
 {
-  "feed": {
-    "components": {
-      "feedNotification": {
-        "findOutMoreBtn": "SPANISH"
-      }
-    }
-  }
+  "feed.components.feedNotification.findOutMoreBtn": "SPANISH"
 }

@@ -1,9 +1,3 @@
 {
-  "feed": {
-    "components": {
-      "feedNotification": {
-        "findOutMoreBtn": "PORTUGUESE"
-      }
-    }
-  }
+  "feed.components.feedNotification.findOutMoreBtn": "PORTUGUESE"
 }

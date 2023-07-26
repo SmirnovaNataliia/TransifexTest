@@ -1,21 +1,5 @@
 {
-  "feed": {
-    "components": {
-      "feedNotification": {
-        "findOutMoreBtn": "FRENCH"
-      }
-    }
-  },
-  "navBar": {
-    "components": {
-      "navigationBarToggle": {
-        "closeSidebarTitle": "Close sidebar {{title}} - FR"
-      }
-    }
-  },
-  "select": {
-    "common": {
-      "remove": "Remove-fr"
-    }
-  }
+  "feed.components.feedNotification.findOutMoreBtn": "FRENCH",
+  "navBar.components.navigationBarToggle.closeSidebarTitle": "Close sidebar {{title}} - FR",
+  "select.common.remove": "Remove-fr"
 }

@@ -1,73 +1,60 @@
 {
-  "feed": {
-    "accessRequestedMessage": {
-      "accessToEdit": "<b>{{initiatorName}}</b> requests access to edit {{boardName}}",
-      "accessToTeam": "<b>{{initiatorName}}</b> requests access to your team and board {{boardName}}"
-    },
-    "boardSharedMessage": {
-      "invitedToComment": "<b>{{initiatorName}}</b> invited you to comment on {{boardName}}",
-      "invitedToEdit": "<b>{{initiatorName}}</b> invited you to edit {{boardName}}",
-      "invitedToView": "<b>{{initiatorName}}</b> invited you to view {{boardName}}"
-    },
-    "components": {
-      "feedNotification": {
-        "dismissBtn": "Dismiss",
-        "dismissed": "Dismissed.",
-        "findOutMoreBtn": "Find out more",
-        "giveAccessBtn": "Give access",
-        "giveEditAccessBtn": "Give edit access",
-        "replyInThread": "Reply in thread",
-        "replyInThread_plural": "{{notificationsCount}} new in thread",
-        "requestApproved": "Request approved",
-        "requestApprovedByUser": "Request approved by {{actorName}} ({{actorEmail}})",
-        "showAllUpdates": "Show all updates",
-        "showUpdates": "Show {{batchSizeValue}} update",
-        "showUpdates_plural": "Show {{batchSizeValue}} updates",
-        "threadDataContent": "Click on card to reply without opening a board"
-      },
-      "feedNotificationListUI": {
-        "boardManuallySubscribedMessage": "You’ll get notified about new replies on board",
-        "boardUnsubscribedMessage": "You won't get notified about replies on board. <1>Undo</1>",
-        "emptyState": "You don’t have any notifications yet. <br />@mention someone from your team on a board and check for updates here.",
-        "expanderText": "Show less <1>↑</1>",
-        "firstTimeGreeting": "You'll be able to see @mentions and comments from your boards and reply to them here.",
-        "firstTimeGreetingWithNotification": "You'll be able to see @mentions and comments from your boards and reply to them here  — see example below:",
-        "followAllThreads": "Follow all threads",
-        "followThread": "Follow thread",
-        "goToBoard": "Go to board",
-        "goToComment": "Go to comment",
-        "infoHeading": "Hey, {{userName}}!",
-        "markAllAsRead": "Mark all as read",
-        "markAllAsUnread": "Mark all as unread",
-        "markAsRead": "Mark as read",
-        "markAsUnread": "Mark as unread",
-        "moreActionsAriaLabel": "more actions button",
-        "newNotificationsMessage": "{{newNotificationsCount}} new notification <1>↑</1>",
-        "newNotificationsMessage_plural": "{{newNotificationsCount}} new notifications <1>↑</1>",
-        "ratingSubmittedMessage": "Thanks for your feedback!",
-        "threadManuallySubscribedMessage": "You'll get notified about new replies in this thread",
-        "threadUnsubscribedMessage": "You won't get notified about this thread. <1>Undo</1>",
-        "todayGreetingText": "Check out fresh updates from your team!",
-        "unfollowAllThreads": "Unfollow all threads",
-        "unfollowThread": "Unfollow thread"
-      },
-      "feedRateCaption": "Rate this Feed"
-    },
-    "feedNotificationsList": {
-      "newLanguagesBanner": "We’re on it! Our team is working on getting the Feed translated."
-    },
-    "greetingsToPlanMessage": {
-      "somebodyUpgradedAccount": "<b>{{userName}}</b> has upgraded your account. Now you can use voting, video chat, timer and more."
-    },
-    "mentions": {
-      "warning": "Users will be notified."
-    },
-    "thread": {
-      "lastUpdated": "Last updated {{ageInMinutes}} min ago.",
-      "learnMore": "Learn more",
-      "mentionedInNoteMessage": "<b>{{userName}}</b> mentioned in Note:",
-      "refresh": "Refresh",
-      "youAreFollowing": "You're following this thread and will get notified about new replies."
-    }
-  }
+  "feed.accessRequestedMessage.accessToEdit": "<b>{{initiatorName}}</b> requests access to edit {{boardName}}",
+  "feed.accessRequestedMessage.accessToTeam": "<b>{{initiatorName}}</b> requests access to your team and board {{boardName}}",
+  "feed.boardSharedMessage.invitedToComment": "<b>{{initiatorName}}</b> invited you to comment on {{boardName}}",
+  "feed.boardSharedMessage.invitedToEdit": "<b>{{initiatorName}}</b> invited you to edit {{boardName}}",
+  "feed.boardSharedMessage.invitedToView": "<b>{{initiatorName}}</b> invited you to view {{boardName}}",
+  "feed.components.feedNotification.dismissBtn": "Dismiss",
+  "feed.components.feedNotification.dismissed": "Dismissed.",
+  "feed.components.feedNotification.findOutMoreBtn": "Find out more",
+  "feed.components.feedNotification.giveAccessBtn": "Give access",
+  "feed.components.feedNotification.giveEditAccessBtn": "Give edit access",
+  "feed.components.feedNotification.replyInThread": {
+    "one": "Reply in thread",
+    "other": "{{notificationsCount}} new in thread"
+  },
+  "feed.components.feedNotification.requestApproved": "Request approved",
+  "feed.components.feedNotification.requestApprovedByUser": "Request approved by {{actorName}} ({{actorEmail}})",
+  "feed.components.feedNotification.showAllUpdates": "Show all updates",
+  "feed.components.feedNotification.showUpdates": {
+    "one": "Show {{batchSizeValue}} update",
+    "other": "Show {{batchSizeValue}} updates"
+  },
+  "feed.components.feedNotification.threadDataContent": "Click on card to reply without opening a board",
+  "feed.components.feedNotificationListUI.boardManuallySubscribedMessage": "You’ll get notified about new replies on board",
+  "feed.components.feedNotificationListUI.boardUnsubscribedMessage": "You won't get notified about replies on board. <1>Undo</1>",
+  "feed.components.feedNotificationListUI.emptyState": "You don’t have any notifications yet. <br />@mention someone from your team on a board and check for updates here.",
+  "feed.components.feedNotificationListUI.expanderText": "Show less <1>↑</1>",
+  "feed.components.feedNotificationListUI.firstTimeGreeting": "You'll be able to see @mentions and comments from your boards and reply to them here.",
+  "feed.components.feedNotificationListUI.firstTimeGreetingWithNotification": "You'll be able to see @mentions and comments from your boards and reply to them here  — see example below:",
+  "feed.components.feedNotificationListUI.followAllThreads": "Follow all threads",
+  "feed.components.feedNotificationListUI.followThread": "Follow thread",
+  "feed.components.feedNotificationListUI.goToBoard": "Go to board",
+  "feed.components.feedNotificationListUI.goToComment": "Go to comment",
+  "feed.components.feedNotificationListUI.infoHeading": "Hey, {{userName}}!",
+  "feed.components.feedNotificationListUI.markAllAsRead": "Mark all as read",
+  "feed.components.feedNotificationListUI.markAllAsUnread": "Mark all as unread",
+  "feed.components.feedNotificationListUI.markAsRead": "Mark as read",
+  "feed.components.feedNotificationListUI.markAsUnread": "Mark as unread",
+  "feed.components.feedNotificationListUI.moreActionsAriaLabel": "more actions button",
+  "feed.components.feedNotificationListUI.newNotificationsMessage": {
+    "one": "{{newNotificationsCount}} new notification <1>↑</1>",
+    "other": "{{newNotificationsCount}} new notifications <1>↑</1>"
+  },
+  "feed.components.feedNotificationListUI.ratingSubmittedMessage": "Thanks for your feedback!",
+  "feed.components.feedNotificationListUI.threadManuallySubscribedMessage": "You'll get notified about new replies in this thread",
+  "feed.components.feedNotificationListUI.threadUnsubscribedMessage": "You won't get notified about this thread. <1>Undo</1>",
+  "feed.components.feedNotificationListUI.todayGreetingText": "Check out fresh updates from your team!",
+  "feed.components.feedNotificationListUI.unfollowAllThreads": "Unfollow all threads",
+  "feed.components.feedNotificationListUI.unfollowThread": "Unfollow thread",
+  "feed.components.feedRateCaption": "Rate this Feed",
+  "feed.feedNotificationsList.newLanguagesBanner": "We’re on it! Our team is working on getting the Feed translated.",
+  "feed.greetingsToPlanMessage": "Check out the new board we put together for you to demo all the premium features now available to your team!",
+  "feed.greetingsToPlanMessage.somebodyUpgradedAccount": "<b>{{userName}}</b> has upgraded your account. Now you can use voting, video chat, timer and more.",
+  "feed.mentions.warning": "Users will be notified.",
+  "feed.thread.lastUpdated": "Last updated {{ageInMinutes}} min ago.",
+  "feed.thread.learnMore": "Learn more",
+  "feed.thread.mentionedInNoteMessage": "<b>{{userName}}</b> mentioned in Note:",
+  "feed.thread.refresh": "Refresh",
+  "feed.thread.youAreFollowing": "You're following this thread and will get notified about new replies."
 }

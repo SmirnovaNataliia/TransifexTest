@@ -1,21 +1,5 @@
 {
-  "feed": {
-    "components": {
-      "feedNotification": {
-        "findOutMoreBtn": "PORTUGUESE"
-      }
-    }
-  },
-  "navBar": {
-    "components": {
-      "navigationBarToggle": {
-        "closeSidebarTitle": "Close sidebar {{title}} - PT"
-      }
-    }
-  },
-  "select": {
-    "common": {
-      "remove": "Remove-pt"
-    }
-  }
+  "feed.components.feedNotification.findOutMoreBtn": "PORTUGUESE",
+  "navBar.components.navigationBarToggle.closeSidebarTitle": "Close sidebar {{title}} - PT",
+  "select.common.remove": "Remove-pt"
 }
