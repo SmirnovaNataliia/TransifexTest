@@ -5,8 +5,8 @@
       "done": "Done",
       "remove": "Remove",
       "select": "Select",
-      "update": "Update {{count}}",
-      "update_plural": "Update {{count}}"
+      "update_one": "Update {{count}}",
+      "update_other": "Update {{count}}"
     }
   }
 }
