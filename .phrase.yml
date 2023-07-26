@@ -5,16 +5,6 @@ phrase:
 
   push:
     sources:
-    - file: ./feed/translator/master/translation.<locale_name>.json
-      params:
-        locale_id: 9becdc254e58eab9d24bf3c81515115f
-        tags: feed
-        update_translations: true
-    - file: ./nav-bar/translator/master/translation.<locale_name>.json
-      params:
-        locale_id: 9becdc254e58eab9d24bf3c81515115f
-        tags: nav-bar
-        update_translations: true
     - file: ./select/packageFolder/translator/master/translation.<locale_name>.json
       params:
         locale_id: 9becdc254e58eab9d24bf3c81515115f
@@ -23,9 +13,6 @@ phrase:
 
   pull:
     targets:
-    - file: ./<tag>/translator/master/translation.<locale_name>.json
-      params:
-        tags: feed, nav-bar
     - file: ./<tag>/packageFolder/translator/master/translation.<locale_name>.json
       params:
         tags: select
