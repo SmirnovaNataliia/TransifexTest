@@ -57,23 +57,22 @@
   "feed.thread.mentionedInNoteMessage": "<b>{{userName}}</b> mentioned in Note:",
   "feed.thread.refresh": "Refresh",
   "feed.thread.youAreFollowing": "You're following this thread and will get notified about new replies.",
-  "navBar.components.navigationBarToggle.closeButton": "Cerrar {{title}}",
-  "navBar.components.navigationBarToggle.closeSidebar": "Cerrar la barra lateral",
+  "navBar.components.navigationBarToggle.closeButton": "{{title}} を閉じる",
+  "navBar.components.navigationBarToggle.closeSidebar": "サイドバーを閉じる",
   "navBar.components.navigationBarToggle.closeSidebarTitle": "Cerrar la barra lateral {{title}}",
-  "navBar.components.navigationBarToggle.navigationBar": "Barra de navegación",
-  "navBar.components.navigationBarToggle.openButton": "Abrir {{title}}",
-  "navBar.components.navigationBarToggle.openSidebar": {
-    "one": "Abrir la barra {{one}} lateral",
-    "other": "Abrir la barra {{more}} lateral"
-  },
-  "navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.content": "Ver el tablero y el historial de las versiones.",
-  "navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.title": "Abrir la barra lateral",
-  "select.common.choose": "Choose",
-  "select.common.done": "Finita",
-  "select.common.remove": "Rmvd",
-  "select.common.select": "Selectado",
+  "navBar.components.navigationBarToggle.navigationBar": "ナビゲーションバー",
+  "navBar.components.navigationBarToggle.openButton": "{{title}} を開く",
+  "navBar.components.navigationBarToggle.openSidebar": "Open sidebar",
+  "navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.content": "ボードとバージョン履歴を閲覧します。",
+  "navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.title": "サイドバーを開く",
+  "select.common.choose": "選択する",
+  "select.common.done": "Finish",
+  "select.common.play": "Play",
+  "select.common.remove": "Rmv",
+  "select.common.select": "Selection",
+  "select.common.speedUp": "Speed Up",
   "select.common.update": {
-    "one": "{{count}} Updtd",
-    "other": "{{count}} Updtd"
+    "one": "Updt {{count}}",
+    "other": "Updt {{count}}"
   }
 }
