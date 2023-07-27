@@ -1,12 +1,8 @@
 {
-  "select": {
-    "common": {
-      "choose": "Choose",
-      "done": "Done",
-      "remove": "Remove",
-      "select": "Select",
-      "update_one": "Update {{count}}",
-      "update_other": "Update {{count}}"
-    }
-  }
+  "select.common.choose": "Choose",
+  "select.common.done": "Finita",
+  "select.common.remove": "Rmvd",
+  "select.common.select": "Selectado",
+  "select.common.update.one": "{{count}} Updtd",
+  "select.common.update.other": "{{count}} Updtd"
 }

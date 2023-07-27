@@ -57,23 +57,23 @@
   "feed.thread.mentionedInNoteMessage": "<b>{{userName}}</b> mentioned in Note:",
   "feed.thread.refresh": "Refresh",
   "feed.thread.youAreFollowing": "You're following this thread and will get notified about new replies.",
-  "navBar.components.navigationBarToggle.closeButton": "Close {{title}}",
-  "navBar.components.navigationBarToggle.closeSidebar": "Close sidebar",
-  "navBar.components.navigationBarToggle.closeSidebarTitle": "Close sidebar {{title}}",
-  "navBar.components.navigationBarToggle.navigationBar": "Navigation bar",
-  "navBar.components.navigationBarToggle.openButton": "Open {{title}}",
+  "navBar.components.navigationBarToggle.closeButton": "Cerrar {{title}}",
+  "navBar.components.navigationBarToggle.closeSidebar": "Cerrar la barra lateral",
+  "navBar.components.navigationBarToggle.closeSidebarTitle": "Cerrar la barra lateral {{title}}",
+  "navBar.components.navigationBarToggle.navigationBar": "Barra de navegación",
+  "navBar.components.navigationBarToggle.openButton": "Abrir {{title}}",
   "navBar.components.navigationBarToggle.openSidebar": {
-    "one": "Open sidebar {{one}}",
-    "other": "Open sidebar {{more}}"
+    "one": "Abrir la barra {{one}} lateral",
+    "other": "Abrir la barra {{more}} lateral"
   },
-  "navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.content": "View board and version history.",
-  "navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.title": "Open sidebar",
+  "navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.content": "Ver el tablero y el historial de las versiones.",
+  "navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.title": "Abrir la barra lateral",
   "select.common.choose": "Choose",
-  "select.common.done": "Done",
-  "select.common.remove": "Remove",
-  "select.common.select": "Select",
+  "select.common.done": "Finita",
+  "select.common.remove": "Rmvd",
+  "select.common.select": "Selectado",
   "select.common.update": {
-    "one": "Update {{count}}",
-    "other": "Update {{count}}"
+    "one": "{{count}} Updtd",
+    "other": "{{count}} Updtd"
   }
 }
