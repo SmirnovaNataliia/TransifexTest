@@ -50,7 +50,5 @@
   "feed.thread.learnMore": "Learn more",
   "feed.thread.mentionedInNoteMessage": "<b>{{userName}}</b> mentioned in Note:",
   "feed.thread.refresh": "Refresh",
-  "feed.thread.youAreFollowing": "You're following this thread and will get notified about new replies.",
-  "feed.thread.test11": "Test 11",
-  "feed.thread.test12": "Test 12"
+  "feed.thread.youAreFollowing": "You're following this thread and will get notified about new replies."
 }
