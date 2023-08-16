@@ -1,16 +1,20 @@
 name: PhraseCliSetup
 
 on:
-  push:
-    branches: [ "main" ]
   pull_request:
-    # The branches below must be a subset of the branches above
     branches: [ "main" ]
+    paths: ['**/translation.en.json']
 
 jobs:
   phraseCliSetup:
     name: Setup Phrase CLI
     runs-on: ubuntu-latest
     steps:
-      - name: Phrase CLI install
-        uses: phrase/setup-cli@v1
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Phrase CLI install
+      uses: phrase/setup-cli@v1
+      with: 
+        version: 2.6.6
+        run: phrase push --wait --tag ${{ github.ref_name }}
