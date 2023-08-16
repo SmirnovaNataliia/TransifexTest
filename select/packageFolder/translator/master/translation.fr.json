@@ -1,2 +1,8 @@
 {
+  "select.common.choose": "Choisir",
+  "select.common.done": "Finish",
+  "select.common.remove": "Rmv",
+  "select.common.select": "Selection",
+  "select.common.update.one": "Updt {{count}}",
+  "select.common.update.other": "Updt {{count}}"
 }

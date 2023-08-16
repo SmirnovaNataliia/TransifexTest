@@ -53,5 +53,12 @@
   "feed.thread.learnMore": "詳細はこちら",
   "feed.thread.mentionedInNoteMessage": "<b>{{userName}}</b> さんがノートでメンションしました。",
   "feed.thread.refresh": "更新する",
-  "feed.thread.youAreFollowing": "このスレッドをフォローしているため、新しい返信があれば通知されます。"
+  "feed.thread.youAreFollowing": "このスレッドをフォローしているため、新しい返信があれば通知されます。",
+  "navBar.components.navigationBarToggle.closeButton": "{{title}} を閉じる",
+  "navBar.components.navigationBarToggle.closeSidebar": "サイドバーを閉じる",
+  "navBar.components.navigationBarToggle.navigationBar": "ナビゲーションバー",
+  "navBar.components.navigationBarToggle.openButton": "{{title}} を開く",
+  "navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.content": "ボードとバージョン履歴を閲覧します。",
+  "navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.title": "サイドバーを開く",
+  "select.common.choose": "選択する"
 }
