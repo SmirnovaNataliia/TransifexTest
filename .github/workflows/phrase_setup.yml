@@ -16,5 +16,5 @@ jobs:
     - name: Phrase CLI install
       uses: phrase/setup-cli@v1
       with: 
-        version: 2.6.6
-        run: phrase push --wait --tag ${{ github.ref_name }}
+        version: 2.6.6      
+    - run: phrase push --wait --tag ${{ github.ref_name }}
