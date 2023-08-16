@@ -9,5 +9,7 @@
     "other": "Open sidebar {{more}}"
   },
   "navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.content": "View board and version history.",
-  "navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.title": "Open sidebar"
+  "navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.title": "Open sidebar",
+  "navBar.components.test3": "Test 3",
+  "navBar.components.test4": "Test 4",
 }
