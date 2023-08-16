@@ -7,6 +7,7 @@ phrase:
     sources:
     - file: ./feed/translator/master/translation.en.json
       params:
+        locale_id: en
         tags: feed
         update_translations: true
     - file: ./nav-bar/translator/master/translation.en.json
