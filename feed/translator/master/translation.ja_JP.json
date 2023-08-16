@@ -9,15 +9,11 @@
   "feed.components.feedNotification.findOutMoreBtn": "詳しく見てみる",
   "feed.components.feedNotification.giveAccessBtn": "アクセス権を付与する",
   "feed.components.feedNotification.giveEditAccessBtn": "編集アクセス権を付与する",
-  "feed.components.feedNotification.replyInThread": {
-    "other": "スレッドに {{notificationsCount}} 件の新しい通知"
-  },
+  "feed.components.feedNotification.replyInThread.other": "スレッドに {{notificationsCount}} 件の新しい通知",
   "feed.components.feedNotification.requestApproved": "リクエストは承認されました",
   "feed.components.feedNotification.requestApprovedByUser": "{{actorName}} ({{actorEmail}}) さんに承認されたリクエスト",
   "feed.components.feedNotification.showAllUpdates": "すべての更新情報を表示する",
-  "feed.components.feedNotification.showUpdates": {
-    "other": "{{batchSizeValue}} 件の更新履歴を表示する"
-  },
+  "feed.components.feedNotification.showUpdates.other": "{{batchSizeValue}} 件の更新履歴を表示する",
   "feed.components.feedNotification.threadDataContent": "カードをクリックしてボードを開けずに返信する",
   "feed.components.feedNotificationListUI.boardManuallySubscribedMessage": "ボードで新しい返信があれば通知されます",
   "feed.components.feedNotificationListUI.boardUnsubscribedMessage": "ボードで返信があっても通知されません。<1>元に戻す</1>",
@@ -35,9 +31,7 @@
   "feed.components.feedNotificationListUI.markAsRead": "既読にする",
   "feed.components.feedNotificationListUI.markAsUnread": "未読にする",
   "feed.components.feedNotificationListUI.moreActionsAriaLabel": "その他のアクションボタン",
-  "feed.components.feedNotificationListUI.newNotificationsMessage": {
-    "other": "{{newNotificationsCount}} 件の新しい通知 <1>↑</1>"
-  },
+  "feed.components.feedNotificationListUI.newNotificationsMessage.other": "{{newNotificationsCount}} 件の新しい通知 <1>↑</1>",
   "feed.components.feedNotificationListUI.ratingSubmittedMessage": "フィードバックをありがとうございます。",
   "feed.components.feedNotificationListUI.threadManuallySubscribedMessage": "このスレッドに新しい返信があれば通知されます",
   "feed.components.feedNotificationListUI.threadUnsubscribedMessage": "このスレッドについては通知されません。<1>元に戻す</1>",

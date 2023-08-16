@@ -9,17 +9,13 @@
   "feed.components.feedNotification.findOutMoreBtn": "Saiba mais",
   "feed.components.feedNotification.giveAccessBtn": "Dar acesso",
   "feed.components.feedNotification.giveEditAccessBtn": "Dar acesso para edição",
-  "feed.components.feedNotification.replyInThread": {
-    "one": "Responder na conversa",
-    "other": "{{notificationsCount}} nova na conversa"
-  },
+  "feed.components.feedNotification.replyInThread.one": "Responder na conversa",
+  "feed.components.feedNotification.replyInThread.other": "{{notificationsCount}} nova na conversa",
   "feed.components.feedNotification.requestApproved": "Solicitação aprovada",
   "feed.components.feedNotification.requestApprovedByUser": "Solicitação aprovada por {{actorName}} ({{actorEmail}})",
   "feed.components.feedNotification.showAllUpdates": "Mostrar todas as atualizações",
-  "feed.components.feedNotification.showUpdates": {
-    "one": "Mostrar {{batchSizeValue}} atualização",
-    "other": "Mostrar {{batchSizeValue}} atualizações"
-  },
+  "feed.components.feedNotification.showUpdates.one": "Mostrar {{batchSizeValue}} atualização",
+  "feed.components.feedNotification.showUpdates.other": "Mostrar {{batchSizeValue}} atualizações",
   "feed.components.feedNotification.threadDataContent": "Clique no cartão para responder sem abrir um board",
   "feed.components.feedNotificationListUI.boardManuallySubscribedMessage": "Você receberá notificações sobre novas respostas no board",
   "feed.components.feedNotificationListUI.boardUnsubscribedMessage": "Você não receberá notificações sobre respostas no board. <1>Desfazer</1>",
@@ -37,10 +33,8 @@
   "feed.components.feedNotificationListUI.markAsRead": "Marcar como lida",
   "feed.components.feedNotificationListUI.markAsUnread": "Marcar como não lida",
   "feed.components.feedNotificationListUI.moreActionsAriaLabel": "botão mais ações",
-  "feed.components.feedNotificationListUI.newNotificationsMessage": {
-    "one": "{{newNotificationsCount}} nova notificação <1>↑</1>",
-    "other": "{{newNotificationsCount}} novas notificações <1>↑</1>"
-  },
+  "feed.components.feedNotificationListUI.newNotificationsMessage.one": "{{newNotificationsCount}} nova notificação <1>↑</1>",
+  "feed.components.feedNotificationListUI.newNotificationsMessage.other": "{{newNotificationsCount}} novas notificações <1>↑</1>",
   "feed.components.feedNotificationListUI.ratingSubmittedMessage": "Agradecemos seu feedback!",
   "feed.components.feedNotificationListUI.threadManuallySubscribedMessage": "Você receberá notificações de novas respostas desta conversa",
   "feed.components.feedNotificationListUI.threadUnsubscribedMessage": "Você não receberá notificações sobre esta conversa. <1>Desfazer</1>",

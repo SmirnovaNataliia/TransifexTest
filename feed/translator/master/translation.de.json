@@ -9,17 +9,13 @@
   "feed.components.feedNotification.findOutMoreBtn": "Mehr erfahren",
   "feed.components.feedNotification.giveAccessBtn": "Zugriff gewähren",
   "feed.components.feedNotification.giveEditAccessBtn": "Bearbeitungszugriff gewähren",
-  "feed.components.feedNotification.replyInThread": {
-    "one": "Im Thread antworten",
-    "other": "{{notificationsCount}} neu im Thread"
-  },
+  "feed.components.feedNotification.replyInThread.one": "Im Thread antworten",
+  "feed.components.feedNotification.replyInThread.other": "{{notificationsCount}} neu im Thread",
   "feed.components.feedNotification.requestApproved": "Anfrage genehmigt",
   "feed.components.feedNotification.requestApprovedByUser": "Anfrage genehmigt von {{actorName}} ({{actorEmail}})",
   "feed.components.feedNotification.showAllUpdates": "Alle Updates anzeigen",
-  "feed.components.feedNotification.showUpdates": {
-    "one": "{{batchSizeValue}}Update  anzeigen",
-    "other": "{{batchSizeValue}}Updates anzeigen"
-  },
+  "feed.components.feedNotification.showUpdates.one": "{{batchSizeValue}}Update  anzeigen",
+  "feed.components.feedNotification.showUpdates.other": "{{batchSizeValue}}Updates anzeigen",
   "feed.components.feedNotification.threadDataContent": "Karte anklicken, um zu antworten, ohne ein Board zu öffnen",
   "feed.components.feedNotificationListUI.boardManuallySubscribedMessage": "Über neue Antworten im Board wirst du benachrichtigt.",
   "feed.components.feedNotificationListUI.boardUnsubscribedMessage": "Über Antworten im Board wirst du nicht benachrichtigt. <1>Rückgängig machen</1>",
@@ -37,10 +33,8 @@
   "feed.components.feedNotificationListUI.markAsRead": "Als gelesen markieren",
   "feed.components.feedNotificationListUI.markAsUnread": "Als ungelesen markieren",
   "feed.components.feedNotificationListUI.moreActionsAriaLabel": "Schaltfläche „Weitere Aktionen“",
-  "feed.components.feedNotificationListUI.newNotificationsMessage": {
-    "one": "{{newNotificationsCount}} neue Benachrichtigung <1>↑</1>",
-    "other": "{{newNotificationsCount}} neue Benachrichtigungen <1>↑</1>"
-  },
+  "feed.components.feedNotificationListUI.newNotificationsMessage.one": "{{newNotificationsCount}} neue Benachrichtigung <1>↑</1>",
+  "feed.components.feedNotificationListUI.newNotificationsMessage.other": "{{newNotificationsCount}} neue Benachrichtigungen <1>↑</1>",
   "feed.components.feedNotificationListUI.ratingSubmittedMessage": "Vielen Dank für dein Feedback!",
   "feed.components.feedNotificationListUI.threadManuallySubscribedMessage": "Du wirst über neue Antworten in diesem Thread benachrichtigt",
   "feed.components.feedNotificationListUI.threadUnsubscribedMessage": "Über diesen Thread wirst du nicht benachrichtigt. <1>Rückgängig machen</1>",
