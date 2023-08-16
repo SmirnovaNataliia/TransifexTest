@@ -1,6 +1,6 @@
 phrase:
   access_token: df8940c0b735df75b23f33b93c47a9d53e204c897dcbc8dfc83f432031c51894
-  project_id: 8e0000aef7ca2913c7ec8c2b35ad7dd9
+  project_id: a1830f3dd54d6de4af698b7a52b8e77d
   file_format: i18next
 
   push:
@@ -9,23 +9,25 @@ phrase:
       params:
         locale_id: en
         tags: feed
-        update_translations: true
+        update_translations: false
     - file: ./nav-bar/translator/master/translation.en.json
       params:
         locale_id: en
         tags: nav-bar
-        update_translations: true
+        update_translations: false
     - file: ./select/packageFolder/translator/master/translation.en.json
       params:
         locale_id: en
         tags: select
-        update_translations: true
+        update_translations: false
 
   pull:
     targets:
     - file: ./<tag>/translator/master/translation.<locale_name>.json
       params:
         tags: feed, nav-bar
+        file_format: simple_json
     - file: ./<tag>/packageFolder/translator/master/translation.<locale_name>.json
       params:
         tags: select
+        file_format: react_simple_json
