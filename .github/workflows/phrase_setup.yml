@@ -17,4 +17,6 @@ jobs:
       uses: phrase/setup-cli@v1
       with: 
         version: 2.6.6      
-    - run: phrase push --wait --tag ${{ github.ref_name }}
+    - run: phrase push --wait --tag ${{ github.head_ref }}
+    - run: |
+        phrase jobs create --project_id a1830f3dd54d6de4af698b7a52b8e77d --data '{"name": "${{ github.head_ref }} job", "tags": ["${{ github.head_ref }}"]}'
