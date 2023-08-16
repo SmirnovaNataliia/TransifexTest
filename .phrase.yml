@@ -5,16 +5,16 @@ phrase:
 
   push:
     sources:
-    - file: ./feed/translator/master/translation.<locale_name>.json
+    - file: ./feed/translator/master/translation.en.json
       params:
         tags: feed
         update_translations: true
-    - file: ./nav-bar/translator/master/translation.<locale_name>.json
+    - file: ./nav-bar/translator/master/translation.en.json
       params:
         locale_id: en
         tags: nav-bar
         update_translations: true
-    - file: ./select/packageFolder/translator/master/translation.<locale_name>.json
+    - file: ./select/packageFolder/translator/master/translation.en.json
       params:
         locale_id: en
         tags: select
