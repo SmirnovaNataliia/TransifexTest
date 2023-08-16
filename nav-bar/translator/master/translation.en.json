@@ -7,5 +7,6 @@
   "navBar.components.navigationBarToggle.openSidebar.one": "Open sidebar {{one}}",
   "navBar.components.navigationBarToggle.openSidebar.other": "Open sidebar {{more}}",
   "navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.content": "View board and version history.",
-  "navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.title": "Open sidebar"
+  "navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.title": "Open sidebar",
+  "navBar.components.navigationBarToggle.checkJobCreation": "Check Job Creation"
 }
