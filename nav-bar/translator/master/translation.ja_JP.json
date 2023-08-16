@@ -1,9 +1,8 @@
 {
-	"navBar.components.navigationBarToggle.closeButton": "{{title}} を閉じる",
-	"navBar.components.navigationBarToggle.closeSidebar": "サイドバーを閉じる",
-	"navBar.components.navigationBarToggle.navigationBar": "ナビゲーションバー",
-	"navBar.components.navigationBarToggle.openButton": "{{title}} を開く",
-	"navBar.components.navigationBarToggle.openSidebar": "サイドバーを開く",
-	"navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.content": "ボードとバージョン履歴を閲覧します。",
-	"navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.title": "サイドバーを開く"
+  "navBar.components.navigationBarToggle.closeButton": "{{title}} を閉じる",
+  "navBar.components.navigationBarToggle.closeSidebar": "サイドバーを閉じる",
+  "navBar.components.navigationBarToggle.navigationBar": "ナビゲーションバー",
+  "navBar.components.navigationBarToggle.openButton": "{{title}} を開く",
+  "navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.content": "ボードとバージョン履歴を閲覧します。",
+  "navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.title": "サイドバーを開く"
 }
