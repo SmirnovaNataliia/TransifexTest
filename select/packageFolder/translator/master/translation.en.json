@@ -8,5 +8,7 @@
   "select.common.test": "TEST",
   "select.common.test2": "TEST 2",
   "select.common.update.one": "Update {{count}}",
-  "select.common.update.other": "Update {{count}}"
+  "select.common.update.other": "Update {{count}}",
+  "select.common.test5": "Test 5",
+  "select.common.test6": "Test 6"
 }
