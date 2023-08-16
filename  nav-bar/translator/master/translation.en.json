@@ -56,5 +56,28 @@
   "feed.thread.learnMore": "Learn more",
   "feed.thread.mentionedInNoteMessage": "<b>{{userName}}</b> mentioned in Note:",
   "feed.thread.refresh": "Refresh",
-  "feed.thread.youAreFollowing": "You're following this thread and will get notified about new replies."
+  "feed.thread.youAreFollowing": "You're following this thread and will get notified about new replies.",
+  "navBar.components.navigationBarToggle.closeButton": "Close {{title}}",
+  "navBar.components.navigationBarToggle.closeSidebar": "Close sidebar",
+  "navBar.components.navigationBarToggle.closeSidebarTitle": "Close sidebar {{title}}",
+  "navBar.components.navigationBarToggle.navigationBar": "Navigation bar",
+  "navBar.components.navigationBarToggle.openButton": "Open {{title}}",
+  "navBar.components.navigationBarToggle.openSidebar": {
+    "one": "Open sidebar {{one}}",
+    "other": "Open sidebar {{more}}"
+  },
+  "navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.content": "View board and version history.",
+  "navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.title": "Open sidebar",
+  "select.common.choose": "Choose",
+  "select.common.done": "Done",
+  "select.common.play": "Play",
+  "select.common.remove": "Remove",
+  "select.common.select": "Select",
+  "select.common.speedUp": "Speed Up",
+  "select.common.test": "TEST",
+  "select.common.test2": "TEST 2",
+  "select.common.update": {
+    "one": "Update {{count}}",
+    "other": "Update {{count}}"
+  }
 }

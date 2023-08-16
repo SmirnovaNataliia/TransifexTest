@@ -56,5 +56,20 @@
   "feed.thread.learnMore": "En savoir plus",
   "feed.thread.mentionedInNoteMessage": "<b>{{userName}}</b> a mentionné dans Note :",
   "feed.thread.refresh": "Actualiser",
-  "feed.thread.youAreFollowing": "Vous suivez ce fil de discussion et vous serez averti(e) des nouvelles réponses."
+  "feed.thread.youAreFollowing": "Vous suivez ce fil de discussion et vous serez averti(e) des nouvelles réponses.",
+  "navBar.components.navigationBarToggle.closeButton": "Fermer {{title}}",
+  "navBar.components.navigationBarToggle.closeSidebar": "Fermer la barre latérale",
+  "navBar.components.navigationBarToggle.closeSidebarTitle": "Fermer {{title}}",
+  "navBar.components.navigationBarToggle.navigationBar": "Barre de navigation",
+  "navBar.components.navigationBarToggle.openButton": "Ouvrir {{title}}",
+  "navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.content": "Consulter l’historique du tableau et des versions.",
+  "navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.title": "Ouvrir la barre latérale",
+  "select.common.choose": "Choisir",
+  "select.common.done": "Finish",
+  "select.common.remove": "Rmv",
+  "select.common.select": "Selection",
+  "select.common.update": {
+    "one": "Updt {{count}}",
+    "other": "Updt {{count}}"
+  }
 }

@@ -56,5 +56,12 @@
   "feed.thread.learnMore": "Saiba mais",
   "feed.thread.mentionedInNoteMessage": "<b>{{userName}}</b> mencionado em Nota:",
   "feed.thread.refresh": "Atualizar",
-  "feed.thread.youAreFollowing": "Você está seguindo esta conversa e receberá notificações de novas respostas."
+  "feed.thread.youAreFollowing": "Você está seguindo esta conversa e receberá notificações de novas respostas.",
+  "navBar.components.navigationBarToggle.closeButton": "Close {{title}}",
+  "navBar.components.navigationBarToggle.closeSidebar": "Close sidebar",
+  "navBar.components.navigationBarToggle.navigationBar": "Navigation bar",
+  "navBar.components.navigationBarToggle.openButton": "Open {{title}}",
+  "navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.content": "View board and version history.",
+  "navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.title": "Open sidebar",
+  "select.common.choose": "Choose"
 }
