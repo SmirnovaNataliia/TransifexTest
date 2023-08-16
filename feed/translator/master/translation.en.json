@@ -13,6 +13,8 @@
     "one": "Reply in thread",
     "other": "{{notificationsCount}} new in thread"
   },
+  "feed.components.feedNotification.replyInThread.one": "Reply in thread",
+  "feed.components.feedNotification.replyInThread.other": "{{notificationsCount}} new in thread",
   "feed.components.feedNotification.requestApproved": "Request approved",
   "feed.components.feedNotification.requestApprovedByUser": "Request approved by {{actorName}} ({{actorEmail}})",
   "feed.components.feedNotification.showAllUpdates": "Show all updates",
@@ -20,6 +22,8 @@
     "one": "Show {{batchSizeValue}} update",
     "other": "Show {{batchSizeValue}} updates"
   },
+  "feed.components.feedNotification.showUpdates.one": "Show {{batchSizeValue}} update",
+  "feed.components.feedNotification.showUpdates.other": "Show {{batchSizeValue}} updates",
   "feed.components.feedNotification.threadDataContent": "Click on card to reply without opening a board",
   "feed.components.feedNotificationListUI.boardManuallySubscribedMessage": "You’ll get notified about new replies on board",
   "feed.components.feedNotificationListUI.boardUnsubscribedMessage": "You won't get notified about replies on board. <1>Undo</1>",
@@ -41,6 +45,8 @@
     "one": "{{newNotificationsCount}} new notification <1>↑</1>",
     "other": "{{newNotificationsCount}} new notifications <1>↑</1>"
   },
+  "feed.components.feedNotificationListUI.newNotificationsMessage.one": "{{newNotificationsCount}} new notification <1>↑</1>",
+  "feed.components.feedNotificationListUI.newNotificationsMessage.other": "{{newNotificationsCount}} new notifications <1>↑</1>",
   "feed.components.feedNotificationListUI.ratingSubmittedMessage": "Thanks for your feedback!",
   "feed.components.feedNotificationListUI.threadManuallySubscribedMessage": "You'll get notified about new replies in this thread",
   "feed.components.feedNotificationListUI.threadUnsubscribedMessage": "You won't get notified about this thread. <1>Undo</1>",
