@@ -9,17 +9,17 @@ phrase:
       params:
         locale_id: en
         tags: feed
-        update_translations: false
+        update_translations: true
     - file: ./nav-bar/translator/master/translation.en.json
       params:
         locale_id: en
         tags: nav-bar
-        update_translations: false
+        update_translations: true
     - file: ./select/packageFolder/translator/master/translation.en.json
       params:
         locale_id: en
         tags: select
-        update_translations: false
+        update_translations: true
 
   pull:
     targets:
