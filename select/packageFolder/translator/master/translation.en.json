@@ -10,5 +10,7 @@
   "select.common.test5": "Test 5",
   "select.common.test6": "Test 6",
   "select.common.update.one": "Update {{count}}",
-  "select.common.update.other": "Update {{count}}"
+  "select.common.update.other": "Update {{count}}",
+  "select.common.test55": "Test 55",
+  "select.common.test66": "Test 66"
 }
