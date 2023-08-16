@@ -1,9 +1,8 @@
 {
-	"navBar.components.navigationBarToggle.closeButton": "{{title}} beenden",
-	"navBar.components.navigationBarToggle.closeSidebar": "Seitenleiste schließen",
-	"navBar.components.navigationBarToggle.navigationBar": "Navigationsleiste",
-	"navBar.components.navigationBarToggle.openButton": "{{title}} öffnen",
-	"navBar.components.navigationBarToggle.openSidebar": "Seitenleiste öffnen",
-	"navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.content": "Board- und Versionsverlauf ansehen.",
-	"navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.title": "Seitenleiste öffnen"
+  "navBar.components.navigationBarToggle.closeButton": "{{title}} beenden",
+  "navBar.components.navigationBarToggle.closeSidebar": "Seitenleiste schließen",
+  "navBar.components.navigationBarToggle.navigationBar": "Navigationsleiste",
+  "navBar.components.navigationBarToggle.openButton": "{{title}} öffnen",
+  "navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.content": "Board- und Versionsverlauf ansehen.",
+  "navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.title": "Seitenleiste öffnen"
 }
