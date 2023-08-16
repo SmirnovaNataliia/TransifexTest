@@ -25,7 +25,7 @@ phrase:
     targets:
     - file: ./<tag>/translator/master/translation.<locale_name>.json
       params:
-        tags: feed, nav-bar
+        tags: feed,nav-bar
         file_format: simple_json
     - file: ./<tag>/packageFolder/translator/master/translation.<locale_name>.json
       params:
