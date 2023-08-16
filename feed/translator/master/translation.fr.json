@@ -9,17 +9,13 @@
   "feed.components.feedNotification.findOutMoreBtn": "En savoir plus",
   "feed.components.feedNotification.giveAccessBtn": "Accorder l’accès",
   "feed.components.feedNotification.giveEditAccessBtn": "Accorder l’accès avec droits de modification",
-  "feed.components.feedNotification.replyInThread": {
-    "one": "Répondre dans le fil de discussion",
-    "other": "{{notificationsCount}} nouvelle(s) réponse(s) dans le fil de discussion"
-  },
+  "feed.components.feedNotification.replyInThread.one": "Répondre dans le fil de discussion",
+  "feed.components.feedNotification.replyInThread.other": "{{notificationsCount}} nouvelle(s) réponse(s) dans le fil de discussion",
   "feed.components.feedNotification.requestApproved": "Demande approuvée",
   "feed.components.feedNotification.requestApprovedByUser": "Demande approuvée par {{actorName}} ({{actorEmail}})",
   "feed.components.feedNotification.showAllUpdates": "Afficher toutes les mises à jour",
-  "feed.components.feedNotification.showUpdates": {
-    "one": "Afficher {{batchSizeValue}} mise à jour",
-    "other": "Afficher {{batchSizeValue}} mises à jour"
-  },
+  "feed.components.feedNotification.showUpdates.one": "Afficher {{batchSizeValue}} mise à jour",
+  "feed.components.feedNotification.showUpdates.other": "Afficher {{batchSizeValue}} mises à jour",
   "feed.components.feedNotification.threadDataContent": "Cliquez sur la carte pour répondre sans ouvrir le tableau.",
   "feed.components.feedNotificationListUI.boardManuallySubscribedMessage": "Vous recevrez des notifications sur les nouvelles réponses dans le tableau.",
   "feed.components.feedNotificationListUI.boardUnsubscribedMessage": "Vous ne recevrez pas de notifications sur les réponses dans le tableau. <1>Annuler</1>",
@@ -37,10 +33,8 @@
   "feed.components.feedNotificationListUI.markAsRead": "Marquer comme lu",
   "feed.components.feedNotificationListUI.markAsUnread": "Marquer comme non lu",
   "feed.components.feedNotificationListUI.moreActionsAriaLabel": "bouton plus d’actions",
-  "feed.components.feedNotificationListUI.newNotificationsMessage": {
-    "one": "{{newNotificationsCount}} nouvelle notification <1>↑</1>",
-    "other": "{{newNotificationsCount}} nouvelles notifications <1>↑</1>"
-  },
+  "feed.components.feedNotificationListUI.newNotificationsMessage.one": "{{newNotificationsCount}} nouvelle notification <1>↑</1>",
+  "feed.components.feedNotificationListUI.newNotificationsMessage.other": "{{newNotificationsCount}} nouvelles notifications <1>↑</1>",
   "feed.components.feedNotificationListUI.ratingSubmittedMessage": "Merci d’avoir partagé vos commentaires !",
   "feed.components.feedNotificationListUI.threadManuallySubscribedMessage": "Vous serez averti(e) des nouvelles réponses dans ce fil de discussion.",
   "feed.components.feedNotificationListUI.threadUnsubscribedMessage": "Vous ne recevrez pas de notifications sur ce fil de discussion. <1>Annuler</1>",
