@@ -1,0 +1,16 @@
+name: PhraseCliSetup
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    # The branches below must be a subset of the branches above
+    branches: [ "main" ]
+
+jobs:
+  phraseCliSetup:
+    name: Setup Phrase CLI
+    runs-on: ubuntu-latest
+    steps:
+      - name: Phrase CLI install
+        uses: phrase/setup-cli@v1
