@@ -12,12 +12,20 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
+      
+    - name: Get changed files using defaults
+      id: changed-files
+      uses: tj-actions/changed-files@v32
+    - name: List all added files
+      run: |
+         for file in ${{ steps.changed-files.outputs. modified_files }}; do
+            echo "$file was modified."
+         done
 
     - name: Phrase CLI install
       uses: phrase/setup-cli@v1
       with: 
         version: 2.6.6
-    - run: echo 'GitHub Context ${{github}}'
     - run: phrase push --wait --tag ${{ github.head_ref }}
     - run: |
         phrase jobs create --project_id a1830f3dd54d6de4af698b7a52b8e77d --data '{"name": "${{ github.head_ref }} job", "tags": ["${{ github.head_ref }}"]}'
