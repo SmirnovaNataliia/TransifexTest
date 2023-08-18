@@ -1,0 +1,27 @@
+name: 'PR Detect changes'
+on:
+  pull_request:
+    types: [ opened ]
+    branches:
+      - main
+jobs:
+  changes:
+    runs-on: ubuntu-latest
+    outputs:
+      packages: ${{ steps.filter.outputs.paths_changed }}
+    steps:
+      - uses: actions/checkout@v3
+      - name: Annotate PR
+        id: filter
+        uses: fabidick22/detect-changes-action@v1
+        with:
+          path: "modules/"
+
+  build:
+    needs: changes
+    strategy:
+      matrix:
+        package: ${{ fromJSON(needs.changes.outputs.packages) }}
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo '${{ matrix.package }}'

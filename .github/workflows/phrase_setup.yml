@@ -2,6 +2,7 @@ name: PhraseCliSetup
 
 on:
   pull_request:
+    types: [ opened ]
     branches: [ "main" ]
     paths: ['**/translation.en.json']
 
@@ -12,6 +13,9 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
+
+    - name: Detect PR changes
+      uses: ./.github/actions/prDetectChanges
 
     - name: Phrase CLI install
       uses: phrase/setup-cli@v1
