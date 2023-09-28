@@ -7,17 +7,14 @@ phrase:
     sources:
     - file: ./feed/translator/master/translation.<locale_name>.json
       params:
-        locale_id: en
         tags: feed
         update_translations: true
     - file: ./nav-bar/translator/master/translation.<locale_name>.json
       params:
-        locale_id: en
         tags: nav-bar
         update_translations: true
     - file: ./select/packageFolder/translator/master/translation.<locale_name>.json
       params:
-        locale_id: en
         tags: select
         update_translations: true
 
@@ -39,7 +36,6 @@ phrase:
     sources:
     - file: ./select/packageFolder/translator/master/translation.<locale_name>.json
       params:
-        locale_id: en
         tags: select
         update_translations: true
 
