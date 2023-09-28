@@ -30,7 +30,7 @@ phrase:
     - file: ./<tag>/packageFolder/translator/master/translation.<locale_name>.json
       params:
         tags: select
-        file_format: react_simple_json
+        file_format: i18next
 
   project_id: 03dc83fc0bfe3e89b3513a10f79c3194
   file_format: i18next
@@ -48,4 +48,4 @@ phrase:
     - file: ./<tag>/packageFolder/translator/master/translation.<locale_name>.json
       params:
         tags: select
-        file_format: react_simple_json
+        file_format: i18next
