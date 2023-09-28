@@ -25,6 +25,8 @@ phrase:
         tags: select
         file_format: i18next
 
+phrase:
+  access_token: df8940c0b735df75b23f33b93c47a9d53e204c897dcbc8dfc83f432031c51894
   project_id: 03dc83fc0bfe3e89b3513a10f79c3194
   file_format: i18next
 
