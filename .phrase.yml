@@ -1,45 +1,44 @@
 phrase:
   access_token: df8940c0b735df75b23f33b93c47a9d53e204c897dcbc8dfc83f432031c51894
-  project_id: e6a6e8d00b125c9787f676927272275c
   file_format: i18next
 
+  # SSO
   push:
     sources:
     - file: ./feed/translator/master/translation.<locale_name>.json
+      project_id: e6a6e8d00b125c9787f676927272275c
       params:
         tags: feed
         update_translations: true
     - file: ./nav-bar/translator/master/translation.<locale_name>.json
+      project_id: e6a6e8d00b125c9787f676927272275c
       params:
         tags: nav-bar
         update_translations: true
 
-  pull:
-    targets:
-    - file: ./<tag>/translator/master/translation.<locale_name>.json
-      params:
-        tags: feed,nav-bar
-        file_format: i18next
-    - file: ./<tag>/packageFolder/translator/master/translation.<locale_name>.json
-      params:
-        tags: select
-        file_format: i18next
-
-phrase:
-  access_token: df8940c0b735df75b23f33b93c47a9d53e204c897dcbc8dfc83f432031c51894
-  project_id: 03dc83fc0bfe3e89b3513a10f79c3194
-  file_format: i18next
-
+  # Mobile App
   push:
     sources:
     - file: ./select/packageFolder/translator/master/translation.<locale_name>.json
+      project_id: 03dc83fc0bfe3e89b3513a10f79c3194
       params:
         tags: select
         update_translations: true
 
+  # SSO
+  pull:
+    targets:
+    - file: ./<tag>/translator/master/translation.<locale_name>.json
+      project_id: e6a6e8d00b125c9787f676927272275c
+      params:
+        tags: feed,nav-bar
+        file_format: i18next
+
+  # Mobile App
   pull:
     targets:
     - file: ./<tag>/packageFolder/translator/master/translation.<locale_name>.json
+      project_id: 03dc83fc0bfe3e89b3513a10f79c3194
       params:
         tags: select
         file_format: i18next
