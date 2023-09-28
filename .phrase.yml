@@ -13,10 +13,6 @@ phrase:
       params:
         tags: nav-bar
         update_translations: true
-    - file: ./select/packageFolder/translator/master/translation.<locale_name>.json
-      params:
-        tags: select
-        update_translations: true
 
   pull:
     targets:
