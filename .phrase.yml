@@ -31,3 +31,25 @@ phrase:
       params:
         tags: select
         file_format: react_simple_json
+
+  project_id: 147dd0010a29bb91b7b80925e9045ab1
+  file_format: i18next
+
+  push:
+    sources:
+    - file: ./select/packageFolder/translator/master/translation.en.json
+      params:
+        locale_id: en
+        tags: select
+        update_translations: false
+
+  pull:
+    targets:
+    - file: ./<tag>/translator/master/translation.<locale_name>.json
+      params:
+        tags: feed,nav-bar
+        file_format: react_simple_json
+    - file: ./<tag>/packageFolder/translator/master/translation.<locale_name>.json
+      params:
+        tags: select
+        file_format: react_simple_json
