@@ -30,8 +30,6 @@
   "feed.components.feedNotificationListUI.infoHeading": "Hallo {{userName}}!",
   "feed.components.feedNotificationListUI.markAllAsRead": "Alles als gelesen markieren",
   "feed.components.feedNotificationListUI.markAllAsUnread": "Alle als ungelesen markieren",
-  "feed.components.feedNotificationListUI.markAsRead": "Als gelesen markieren",
-  "feed.components.feedNotificationListUI.markAsUnread": "Als ungelesen markieren",
   "feed.components.feedNotificationListUI.moreActionsAriaLabel": "Schaltfläche „Weitere Aktionen“",
   "feed.components.feedNotificationListUI.newNotificationsMessage.one": "{{newNotificationsCount}} neue Benachrichtigung <1>↑</1>",
   "feed.components.feedNotificationListUI.newNotificationsMessage.other": "{{newNotificationsCount}} neue Benachrichtigungen <1>↑</1>",

@@ -28,8 +28,6 @@
   "feed.components.feedNotificationListUI.infoHeading": "こんにちは、{{userName}} さん！",
   "feed.components.feedNotificationListUI.markAllAsRead": "すべて既読にする",
   "feed.components.feedNotificationListUI.markAllAsUnread": "すべて未読にする",
-  "feed.components.feedNotificationListUI.markAsRead": "既読にする",
-  "feed.components.feedNotificationListUI.markAsUnread": "未読にする",
   "feed.components.feedNotificationListUI.moreActionsAriaLabel": "その他のアクションボタン",
   "feed.components.feedNotificationListUI.newNotificationsMessage.other": "{{newNotificationsCount}} 件の新しい通知 <1>↑</1>",
   "feed.components.feedNotificationListUI.ratingSubmittedMessage": "フィードバックをありがとうございます。",
