@@ -6,6 +6,7 @@
   "feed.boardSharedMessage.invitedToView": "<b>{{initiatorName}}</b> te ha invitado a ver {{boardName}}",
   "feed.components.feedNotification.dismissBtn": "Rechazar",
   "feed.components.feedNotification.dismissed": "Rechazada.",
+  "feed.components.feedNotification.dismissed.new": "Rechazada. NEW",
   "feed.components.feedNotification.findOutMoreBtn": "Más información",
   "feed.components.feedNotification.giveAccessBtn": "Conceder acceso",
   "feed.components.feedNotification.giveEditAccessBtn": "Dar acceso para editar",
