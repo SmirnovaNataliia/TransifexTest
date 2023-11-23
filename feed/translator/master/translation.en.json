@@ -30,8 +30,6 @@
   "feed.components.feedNotificationListUI.infoHeading": "Hey, {{userName}}!",
   "feed.components.feedNotificationListUI.markAllAsRead": "Mark all as read",
   "feed.components.feedNotificationListUI.markAllAsUnread": "Mark all as unread",
-  "feed.components.feedNotificationListUI.markAsRead": "Mark as read",
-  "feed.components.feedNotificationListUI.markAsUnread": "Mark as unread",
   "feed.components.feedNotificationListUI.moreActionsAriaLabel": "more actions button",
   "feed.components.feedNotificationListUI.newNotificationsMessage.one": "{{newNotificationsCount}} new notification <1>↑</1>",
   "feed.components.feedNotificationListUI.newNotificationsMessage.other": "{{newNotificationsCount}} new notifications <1>↑</1>",
