@@ -6,6 +6,7 @@
   "feed.boardSharedMessage.invitedToView": "<b>{{initiatorName}}</b> hat dich zum Ansehen von {{boardName}} eingeladen",
   "feed.components.feedNotification.dismissBtn": "Verlassen",
   "feed.components.feedNotification.dismissed": "Abgewiesen.",
+  "feed.components.feedNotification.dismissed.new": "Abgewiesen. NEW",
   "feed.components.feedNotification.findOutMoreBtn": "Mehr erfahren",
   "feed.components.feedNotification.giveAccessBtn": "Zugriff gewähren",
   "feed.components.feedNotification.giveEditAccessBtn": "Bearbeitungszugriff gewähren",
